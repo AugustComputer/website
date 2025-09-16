@@ -1,0 +1,14 @@
+html {
+    scroll-behavior: smooth;
+    background-color: #ffbbdd;
+    color: blueviolet;
+}
+
+body {
+    max-width: 65%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
